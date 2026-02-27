@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research - Peer Assessment 1"
-author: "Your Name"
+author: "Ahaan Shah"
 output: html_document
 ---
 
